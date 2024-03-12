@@ -94,11 +94,7 @@ button {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
 
-.clue {
-  margin-left: 0.25rem;
-  font-size: 0.9rem;
-  color: #e4e4e4;
-}
+
 
 .text-center {
   text-align: center;
@@ -136,13 +132,7 @@ button {
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 
-.input-radio,
-.input-checkbox {
-  display: inline-block;
-  margin-right: 0.625rem;
-  min-height: 1.25rem;
-  min-width: 1.25rem;
-}
+
 
 .input-textarea {
   min-height: 120px;
